@@ -177,7 +177,7 @@ const News = () => {
             color:'white'
           }}
         >
-          Who can be A part of this community?
+          Who can be a part of this community?
         </Typography>
       </Box>
       <Typography
